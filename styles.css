@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#mainCanvas {
+    display: block;
+    margin: auto;
+    width: 40%;
+
+    aspect-ratio: 1 / 1;
+
+    border-style: solid;
+    border-color: black;
+    border-width: 1%;
+}
